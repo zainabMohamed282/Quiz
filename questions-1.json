@@ -1,0 +1,90 @@
+[
+    {
+        "question":"What is HTML?",
+        "answer_1":"HTML describes the structure of a webpage",
+        "answer_2":"HTML is the standard markup language mainly used to create web pages",
+        "answer_3":"HTML consists of a set of elements that helps the browser how to view the content",
+        "answer_4":"All of the mentioned",
+        "Right_answer":"All of the mentioned"
+    },
+    {
+        "question":"HTML stands for?",
+        "answer_1":"HyperText Markup Language",
+        "answer_2":"HyperText Machine Language",
+        "answer_3":"HyperText Marking Language",
+        "answer_4":"HighText Marking Language",
+        "Right_answer":"HyperText Markup Language"
+    },
+    {
+        "question":"What is the correct syntax of doctype in HTML5?",
+        "answer_1":"</doctype html>",
+        "answer_2":"<doctype html>",
+        "answer_3":"<doctype html!>",
+        "answer_4":"<!doctype html>",
+        "Right_answer":"<!doctype html>"
+    },
+    {
+        "question":"The correct sequence of HTML tags for starting a webpage is -",
+        "answer_1":"Head, Title, HTML, body",
+        "answer_2":"HTML, Body, Title, Head",
+        "answer_3":"HTML, Head, Title, Body",
+        "answer_4":"HTML, Head, Title, Body",
+        "Right_answer":"HTML, Head, Title, Body"
+    },
+    {
+        "question":"Which of the following element is responsible for making the text bold in HTML?",
+        "answer_1":"<pre>",
+        "answer_2":"<a>",
+        "answer_3":"<b>",
+        "answer_4":"<br>",
+        "Right_answer":"<b>"
+    },
+    {
+        "question":"Which of the following tag is used for inserting the largest heading in HTML?",
+        "answer_1":"<h1>",
+        "answer_2":"<h6>",
+        "answer_3":"<h3>",
+        "answer_4":"<h2>",
+        "Right_answer":"<h1>"
+    },
+    {
+        "question":"How to create a hyperlink in HTML?",
+        "answer_1":"<a href = 'www.javatpoint.com'> javaTpoint.com </a>",
+        "answer_2":"<a url = 'www.javatpoint.com' javaTpoint.com /a>",
+        "answer_3":"<a link = 'www.javatpoint.com'> javaTpoint.com </a>",
+        "answer_4":"<a> www.javatpoint.com <javaTpoint.com /a>",
+        "Right_answer":"<a href = 'www.javatpoint.com'> javaTpoint.com </a>"   
+    },
+    {
+        "question":"Which of the following element is responsible for making the text italic in HTML?",
+        "answer_1":"<i>",
+        "answer_2":"<italic>",
+        "answer_3":"<it>",
+        "answer_4":"<pre>",
+        "Right_answer":"<i>"   
+    },
+    {
+        "question":"<input> is -",
+        "answer_1":"a format tag.",
+        "answer_2":"an empty tag.",
+        "answer_3":"All of the above",
+        "answer_4":"None of the above",
+        "Right_answer":"an empty tag." 
+    },
+    {
+        "question":"Which of the following tag is used to make the underlined text?",
+        "answer_1":"<ul>",
+        "answer_2":"<u>",
+        "answer_3":"<i>",
+        "answer_4":"<pre>",
+        "Right_answer":"<u>"
+    },
+    {
+        "question":"Which of the following tag is used to define options in a drop-down selection list?",
+        "answer_1":"<select>",
+        "answer_2":"<list>",
+        "answer_3":"<dropdown>",
+        "answer_4":"<option>",
+        "Right_answer":"<option>"
+    }
+]
